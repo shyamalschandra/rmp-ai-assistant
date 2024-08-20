@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Alice Johnson",
+      "review": "Engaging lectures and very approachable.",
+      "subject": "Mathematics",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Bob Smith",
+      "review": "Knowledgeable but sometimes hard to follow.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Carol White",
+      "review": "Very helpful during office hours.",
+      "subject": "Chemistry",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. David Brown",
+      "review": "Clear and well-organized lectures.",
+      "subject": "Biology",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Emma Davis",
+      "review": "Tough grader but fair.",
+      "subject": "History",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Frank Wilson",
+      "review": "Makes the subject interesting and fun.",
+      "subject": "Literature",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Grace Lee",
+      "review": "Very strict with deadlines.",
+      "subject": "Computer Science",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Henry Martinez",
+      "review": "Provides great feedback on assignments.",
+      "subject": "Philosophy",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Irene Taylor",
+      "review": "Sometimes hard to understand due to accent.",
+      "subject": "Economics",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Jack Anderson",
+      "review": "Very passionate about the subject.",
+      "subject": "Art",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Karen Thomas",
+      "review": "Uses a lot of real-world examples.",
+      "subject": "Engineering",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Larry Jackson",
+      "review": "Assignments are very challenging.",
+      "subject": "Mathematics",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Mary Harris",
+      "review": "Always available for extra help.",
+      "subject": "Physics",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Nathan Clark",
+      "review": "Lectures can be a bit dry.",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Olivia Lewis",
+      "review": "Encourages class participation.",
+      "subject": "Biology",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Paul Walker",
+      "review": "Very inspiring and motivating.",
+      "subject": "History",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Quinn Hall",
+      "review": "Gives a lot of homework.",
+      "subject": "Literature",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Rachel Allen",
+      "review": "Explains concepts very clearly.",
+      "subject": "Computer Science",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Steve Young",
+      "review": "Sometimes hard to reach outside of class.",
+      "subject": "Philosophy",
+      "stars": 3
+    },
+    {
+      "professor": "Prof. Tina King",
+      "review": "Very organized and methodical.",
+      "subject": "Economics",
+      "stars": 4
+    }
+  ]
+}
